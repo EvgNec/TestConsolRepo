@@ -11,3 +11,4 @@
 8. git push --set-upstream origin header добавити гілку у репозіторій
    gip push -u origin header
 9. git pull получити зміни
+10. 6+7 git commit -am "add"
