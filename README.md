@@ -16,6 +16,7 @@
 12. git branch -d header видалити гілку з проєкту локально
 13. git branch origin --delete header видалення на гіті
     git push origin --delete header
+14. git merge --abort - відміна злиття гілок
 
 Користні команди
 git clone - Клонує репозиторій
