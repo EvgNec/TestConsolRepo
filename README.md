@@ -12,3 +12,4 @@
    gip push -u origin header
 9. git pull получити зміни
 10. 6+7 git commit -am "add"
+11. git merge header
